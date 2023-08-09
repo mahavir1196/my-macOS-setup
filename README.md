@@ -21,14 +21,18 @@ Built In Terminal
 
 [Spotify](https://formulae.brew.sh/cask/spotify)
 
-[NodeJS](https://formulae.brew.sh/formula/node)
+[Postgres](https://postgresapp.com/downloads.html)
+
+[Docker](https://www.docker.com/products/docker-desktop/)
 
 ## Terminal Setup
 [Homebrew](https://brew.sh/)
 
 [OhMyZSH](https://ohmyz.sh/)
 
-[Dracula Theme](https://draculatheme.com/terminal)
+[Dracula Terminal Theme](https://draculatheme.com/terminal)
+
+[Dracula ZSH Theme](https://draculatheme.com/zsh)
 
 [zsh-syntax-highlighting](https://formulae.brew.sh/formula/zsh-syntax-highlighting)
 
