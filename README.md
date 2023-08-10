@@ -49,3 +49,7 @@ Gerry Themes [https://plugins.jetbrains.com/plugin/18922-gerry-themes]
 
 ## Font
 JetBrains Mono [https://www.jetbrains.com/lp/mono/]
+```
+brew tap homebrew/cask-fonts
+brew install font-jetbrains-mono
+```
