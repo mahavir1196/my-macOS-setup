@@ -40,6 +40,17 @@ Built In Terminal
 
 [zsh-autosuggestions](https://formulae.brew.sh/formula/zsh-autosuggestions)
 
+NVM (Node)
+```
+brew install nvm
+mkdir ~/.nvm
+
+Add in ~/.zshrc file: 
+
+export NVM_DIR=~/.nvm
+source $(brew --prefix nvm)/nvm.sh
+```
+
 ## VSCode Extensions
 
 [ToDo]
